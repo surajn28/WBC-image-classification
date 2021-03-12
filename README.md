@@ -1,5 +1,10 @@
-# WBC-image-classification
-The field of hematology involves the analysis of blood and its components
+# WBC-image-classification:
+Project Specifications:
+Python - version 3.5
+TensorFlow 2.0
+Keras 2.3.0
+
+The fild of hematology involves the analysis of blood and its components
 like platelets, red blood cells, white blood cells. The outcome of
 this analysis can be vital in determining the condition of the human
 body and it is important to obtain accurate results. This project involves the analysis of white blood cells (WBC) using
